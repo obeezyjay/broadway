@@ -36,6 +36,7 @@ span {
   display: inline-block;
   text-align: left;
   background-color: dimgray;
+  width: 100%;
 }
 #designed{
   color: white;
